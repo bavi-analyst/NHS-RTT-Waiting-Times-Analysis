@@ -67,6 +67,8 @@ nationally — the highest absolute backlog of any specialty in England.
 | DAX | SUM, DIVIDE measures for KPI cards |
 
 ---
+## Dashboard Preview
+![NHS RTT Dashboard](dashboard_screenshot.png)
 
 ## Files in This Repository
 
